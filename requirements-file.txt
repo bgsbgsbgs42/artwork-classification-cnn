@@ -1,0 +1,21 @@
+# Core dependencies
+tensorflow>=2.12.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+Pillow>=10.0.0
+scipy>=1.10.0
+
+# Utilities
+tqdm>=4.65.0
+pandas>=2.0.0
+scikit-learn>=1.2.2
+
+# Jupyter (optional, for exploration)
+jupyterlab>=4.0.0
+ipykernel>=6.23.0
+
+# Visualization
+seaborn>=0.12.2
+
+# Optional but recommended for faster training
+tensorflow-addons>=0.20.0  # For AdamW optimizer
